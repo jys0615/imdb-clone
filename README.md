@@ -1,1 +1,1 @@
-# imdb-clone
+# IMDb 사이트 클론코딩 프로젝트
